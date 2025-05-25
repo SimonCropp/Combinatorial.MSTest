@@ -6,6 +6,6 @@
   <ItemGroup>
     <PackageVersion Include="MSTest" Version="$(MSTestVersion)" />
     <PackageVersion Include="MSTest.TestFramework" Version="$(MSTestVersion)" />
-    <PackageVersion Include="Polyfill" Version="7.31.0" />
+    <PackageVersion Include="Polyfill" Version="7.32.0" />
   </ItemGroup>
 </Project>
